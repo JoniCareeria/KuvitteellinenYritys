@@ -1,0 +1,5 @@
+[{ "phone" : "044-5421111", "name" : "Matti Mattelsson", "role": "Toimitusjohtaja", "email": "MattiM@yritys.com"}, 
+{ "phone": "044-5421122", "name": "Kalle Kaataja", "role": "Myyntipäällikkö", "email": "KalleK@yritys.com"},
+{ "phone" : "044-5421133", "name" : "Kari Kouvostolainen", "role": "Markkinointikoordinaattori", "email": "KariK@yritys.com"},
+{ "phone" : "044-5421144", "name" : "Liisa Ihmemaassa", "role": "IT-asiantuntija", "email": "LiisaI@yritys.com"},
+{ "phone" : "044-5421155", "name" : "Pentti Pitkänenä", "role": "Talouspäällikkö", "email": "PenttiP@yritys.com"}]
