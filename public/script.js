@@ -33,7 +33,7 @@ function loadPage(page) {
             
             var x = `<table><thead><th>Henkilö</th><th>Titteli</th><th>Puhelinnumero</th><th>Sähköposti</th></thead><tbody>`
             
-            const response = await fetch("http://localhost:3000/api/henkilokunta")
+            const response = await fetch("http://localhost:3030/api/henkilokunta")
             const henkilodata = await response.json() // muutetaan json -> javascript muotoon
             await henkilodata.map(h => {
                 x += `<tr><td>${h.name}</td><td>${h.role}</td><td>${h.phone}</td><td>${h.email}</td></tr>`
